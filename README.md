@@ -11,5 +11,5 @@ At the end of this course you will:
 - Be able to use Redux to design the architecture for a React-Redux application
 
 
-*Offered By - The Hong Kong University of Science and Technology
-Instructor - Jogesh K. Muppala*
+*Offered By - The Hong Kong University of Science and Technology*
+*Instructor - Jogesh K. Muppala*
