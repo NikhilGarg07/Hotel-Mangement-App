@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objective
+Create a single page client side web application using React. The website should be responsive and should have a user friendly UI.
+
+### Prerequistes
+- Be familiar with client-side Javascript application development and the React library
+- Be able to implement single page applications in React
+- Be able to use various React features including components and forms
+- Be able to implement a functional front-end web application using React
+- Be able to use Reactstrap for designing responsive React applications
+- Be able to use Redux to design the architecture for a React-Redux application
 
 ## Available Scripts
 
